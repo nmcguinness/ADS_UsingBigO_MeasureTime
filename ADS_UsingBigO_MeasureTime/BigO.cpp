@@ -39,6 +39,7 @@ public:
 	void operator()() {
 		binarySearch(this->pArr, this->length, this->target);
 	}
+
 };
 
 /********************************* Other Functor Example *********************************/
